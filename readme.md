@@ -77,6 +77,17 @@ Cypress
     ├── commands.js
     └── e2e.js
 
+## Find Spec Files
+- You can print each spec file with the suite and test names inside of it 
+```sh
+npx find-cypress-specs --names
+```
+
+- You can print a spec file with the suite and test names inside of it for a tag 
+```sh
+npx find-cypress-specs --names --tagged @smoke
+```
+
 ## Development Dependencies
 
 This project uses the following Cypress-related development dependencies:
