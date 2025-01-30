@@ -1,0 +1,20 @@
+{
+  "name": "cypress-todomvc-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:smoke": "npx cypress run --env grepTags=@smoke"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@bahmutov/cy-grep": "^2.0.8",
+    "cypress": "^14.0.1",
+    "cypress-plugin-api": "^2.11.2",
+    "cypress-plugin-steps": "^1.1.1"
+  }
+}

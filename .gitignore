@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Cypress test output and reports
+cypress/videos/
+cypress/screenshots/
+cypress/results/
+cypress/reports/
+
+# Cypress configuration cache
+.cypress_cache/
+
+# Environment variables
+cypress.env.json
+
+# IDE and OS-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# NPM debug files
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
