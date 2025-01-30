@@ -8,7 +8,7 @@
 - **Powerful Debugging** – Time-travel debugging with built-in snapshots.
 - **Built-in Assertions** – Comes with powerful, easy-to-use assertions.
 - **Network Control** – Intercepts and modifies HTTP requests.
-- **Cross-browser Testing** – Supports Chrome, Edge, Firefox, and Electron.
+- **Cross-browser Testing** – Supports Chrome, Edge, Firefox, Webkit (Safari) and Electron.
 - **Great Developer Experience** – Provides live reloading, auto-waiting, and rich error messages.
 
 ### Test Types Supported by Cypress
