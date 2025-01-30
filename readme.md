@@ -96,3 +96,8 @@ This project uses the following Cypress-related development dependencies:
 ### [`cypress-plugin-steps`](https://github.com/Titaniumnetwork-dev/cypress-plugin-steps)
 - A plugin to add **step-based logging** in Cypress tests.
 - Useful for better test readability and debugging.
+  
+### [`find-cypress-specs`](https://www.npmjs.com/package/find-cypress-specs)
+- A CLI tool to **list and filter Cypress spec files**.
+- Helps find test files matching specific patterns.
+- Useful for running **specific test sets dynamically**.
