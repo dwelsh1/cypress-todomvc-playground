@@ -113,7 +113,11 @@ This project uses the following Cypress-related development dependencies:
 - Helps find test files matching specific patterns.
 - Useful for running **specific test sets dynamically**.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 WORKING BRANH
+=======
+- 
+>>>>>>> Stashed changes
 =======
 - 
 >>>>>>> Stashed changes
